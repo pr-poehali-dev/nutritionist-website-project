@@ -161,7 +161,9 @@ const Index = () => {
                   </div>
                 </div>
                 <div className="md:col-span-2">
-                  <h3 className="text-2xl font-semibold mb-4 text-foreground">Сертифицированный нутрициолог</h3>
+                  <h3 className="text-2xl font-semibold mb-4 text-foreground">Сертифицированный нутрициолога
+Потапкина Татьяна
+</h3>
                   <p className="text-muted-foreground leading-relaxed mb-4">
                     Более 7 лет я помогаю людям находить баланс в питании и достигать своих целей. 
                     Имею высшее медицинское образование и международные сертификаты в области нутрициологии.
